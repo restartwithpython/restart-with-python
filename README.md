@@ -29,8 +29,8 @@ I'm building this publicly to:
 ## 🌐 Connect With Me
 
 - Instagram: [@restartwithpython](https://instagram.com/restartwithpython)
-- Twitter: [@restartpython](https://twitter.com/restartpython)
-- GitHub: [@tushar-restarts](https://github.com/tushar-restarts)
+- Twitter: [@restartpython](https://twitter.com/restartwithpy)
+- GitHub: [@restart-with-python](https://github.com/restart-with-python)
 
 ---
 
