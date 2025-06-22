@@ -30,7 +30,7 @@ I'm building this publicly to:
 
 - Instagram: [@restartwithpython](https://instagram.com/restartwithpython)
 - Twitter: [@restartpython](https://twitter.com/restartwithpy)
-- GitHub: [@restart-with-python](https://github.com/restart-with-python)
+- GitHub: [@restart-with-python](https://github.com/restartwithpython)
 
 ---
 
