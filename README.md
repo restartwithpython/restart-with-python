@@ -1,6 +1,3 @@
-# restart-with-python
-My journey from tech support to Python Developer 🚀 | Daily 2 hours of code, projects, and problem-solving until Dec 2025.
-
 # 🚀 Restart with Python
 
 Welcome to my **daily coding journey** where I'm transitioning from a tech support role into a skilled **Python Developer**.
