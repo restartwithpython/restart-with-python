@@ -34,7 +34,7 @@ print(y, type(y))  # Float
 z = True
 print(z, type(z))  # Boolean
 
-name = "Tushar Mandali"
+name = "Tushar M"
 print(name, type(name))  # String
 
 
@@ -64,15 +64,15 @@ print(z, type(z))
 print(
     """My Name is Tushar 
 
-Age is 21 
+Age is 24 
 """
 )  # This is Multi-line String
 
 # String Methods
 print("Tushar".upper())
 print("Tushar".lower())
-print("TusHAR manDali".title())  # make starting letter all capital of the words
-print("TusHAR manDali".islower())
+print("TusHAR D m".title())  # make starting letter all capital of the words
+print("TusHAR D m".islower())
 print("tushar".islower())  # Check if the string contains all the lower char or not
 
 # Complex Number :
