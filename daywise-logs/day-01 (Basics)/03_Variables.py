@@ -7,8 +7,8 @@ print(x)
 print(y)
 print(z)
 
-name = "Tushar Mandali"
-age = "22"
+name = "Tushar"
+age = "24"
 gender = "Male"
 print(name, "\n", age, "\t", gender)
 
@@ -23,13 +23,13 @@ RULES OF VARIABLE :
 """
 
 first_name = "Tushar"
-last_name = "Mandali"
+last_name = "M"
 print(first_name, last_name)
 
 # Printing Variables in Different Ways
 
-name = "Tushar Mandali"
-age = "22"
+name = "Tushar M"
+age = "24"
 gender = "Male"
 
 print("My name is", name)
