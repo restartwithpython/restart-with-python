@@ -7,8 +7,8 @@ print(x)
 print(y)
 print(z)
 
-name = "Tushar M"
-age = "22"
+name = "Tushar"
+age = "24"
 gender = "Male"
 print(name, "\n", age, "\t", gender)
 
