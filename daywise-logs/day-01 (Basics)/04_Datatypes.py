@@ -34,7 +34,7 @@ print(y, type(y))  # Float
 z = True
 print(z, type(z))  # Boolean
 
-name = "Tushar Mandali"
+name = "Tushar"
 print(name, type(name))  # String
 
 
@@ -71,8 +71,8 @@ Age is 21
 # String Methods
 print("Tushar".upper())
 print("Tushar".lower())
-print("TusHAR manDali".title())  # make starting letter all capital of the words
-print("TusHAR manDali".islower())
+print("TusHAR m".title())  # make starting letter all capital of the words
+print("TusHAR m".islower())
 print("tushar".islower())  # Check if the string contains all the lower char or not
 
 # Complex Number :
