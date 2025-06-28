@@ -149,3 +149,35 @@ elif num % 3 == 0 and num % 5 == 0:
     print("FizzBuzz")
 else:
     print(num)
+
+"""
+num1 = int(input("Enter number 1: "))
+num2 = int(input("Enter number 2: "))
+
+Oper = input("Select any Operator: +,-,*,/,%")
+
+if Oper == "+":
+    result = num1 + num2
+    print(f"Addition of two number is {result}.")
+elif Oper == "-":
+    result = num1 - num2
+    print(f"Substraction of two number is {result}.")
+elif Oper == "*":
+    result = num1 * num2
+    print(f"Multiplication of two number is {result}.")
+elif Oper == "/":
+    if num2 != 0:
+        result = num1 / num2
+        print(f"Division of two number is {result}")
+    else:
+        print(f"Divisible by zero is not valid. Kindly enter the correct number")
+elif Oper == "%":
+    if num2 != 0:
+        result = num1 % num2
+        print(f"Division of two number is {result}")
+    else:
+        print(f"Modulus by zero is not valid. Kindly enter the correct number")
+else:
+    print("Kindly enter the valid number or characters: ")
+
+"""
