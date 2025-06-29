@@ -153,5 +153,3 @@ else:
     while num2 <= num1:
         print(num2, end=" ")
         num2 += 1
-print(num1)
-# While completed
